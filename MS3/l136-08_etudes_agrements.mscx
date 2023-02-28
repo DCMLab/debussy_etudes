@@ -22,6 +22,8 @@
     <showFrames>1</showFrames>
     <showMargins>0</showMargins>
     <metaTag name="arranger"></metaTag>
+    <metaTag name="composed_end">1915</metaTag>
+    <metaTag name="composed_start">1915</metaTag>
     <metaTag name="composer"></metaTag>
     <metaTag name="copyright"></metaTag>
     <metaTag name="creationDate">2022-03-05</metaTag>
@@ -2688,7 +2690,7 @@
             <sigD>8</sigD>
             </TimeSig>
           <SystemText>
-            <swing unit="" ratio= "60"/>
+            <swing unit="" ratio="60"/>
             <style>Tempo</style>
             <offset x="-6.13523" y="-7.54935"/>
             <text><b></b>Mouvt</text>
@@ -3539,7 +3541,7 @@ m.d. sans refrapper</text>
             <accidental>0</accidental>
             </KeySig>
           <SystemText>
-            <swing unit="" ratio= "60"/>
+            <swing unit="" ratio="60"/>
             <style>Tempo</style>
             <text><b></b>Poco animando</text>
             </SystemText>
@@ -6784,7 +6786,7 @@ m.d. sans refrapper</text>
             <sigD>8</sigD>
             </TimeSig>
           <SystemText>
-            <swing unit="" ratio= "60"/>
+            <swing unit="" ratio="60"/>
             <style>Tempo</style>
             <offset x="0" y="-3.85604"/>
             <text><b></b>Tempo (poco animando)</text>
@@ -7255,7 +7257,7 @@ m.d. sans refrapper</text>
               </Note>
             </Chord>
           <SystemText>
-            <swing unit="" ratio= "60"/>
+            <swing unit="" ratio="60"/>
             <style>Tempo</style>
             <text><b></b>Cédez   -      -         -         -       -        -         -  </text>
             </SystemText>
@@ -7389,7 +7391,7 @@ m.d. sans refrapper</text>
             <accidental>3</accidental>
             </KeySig>
           <SystemText>
-            <swing unit="" ratio= "60"/>
+            <swing unit="" ratio="60"/>
             <style>Tempo</style>
             <text><b></b>1er Mouvt</text>
             </SystemText>
@@ -8518,7 +8520,7 @@ m.d. sans refrapper</text>
             <text><i></i><font face="ScoreText"></font><i><font face="Edwin"></font> sub</i></text>
             </Dynamic>
           <SystemText>
-            <swing unit="" ratio= "60"/>
+            <swing unit="" ratio="60"/>
             <style>Tempo</style>
             <offset x="0" y="-5.76272"/>
             <text><b></b>Rubato (poco scherzando)</text>
@@ -9862,7 +9864,7 @@ m.d. sans refrapper</text>
 legg.</text>
             </StaffText>
           <SystemText>
-            <swing unit="" ratio= "60"/>
+            <swing unit="" ratio="60"/>
             <style>Tempo</style>
             <text><b></b>1er Mouvt</text>
             </SystemText>
@@ -13099,7 +13101,7 @@ expressif</text>
             <accidental>4</accidental>
             </KeySig>
           <SystemText>
-            <swing unit="" ratio= "60"/>
+            <swing unit="" ratio="60"/>
             <style>Tempo</style>
             <text><b></b>au Mouvt</text>
             </SystemText>
@@ -14116,7 +14118,7 @@ expressif</text>
             <sigD>8</sigD>
             </TimeSig>
           <SystemText>
-            <swing unit="" ratio= "60"/>
+            <swing unit="" ratio="60"/>
             <style>Tempo</style>
             <text><b></b>Molto rit.  -         -         -       //</text>
             </SystemText>
@@ -14320,7 +14322,7 @@ expressif</text>
             <accidental>-1</accidental>
             </KeySig>
           <SystemText>
-            <swing unit="" ratio= "60"/>
+            <swing unit="" ratio="60"/>
             <style>Tempo</style>
             <offset x="0" y="-4.73324"/>
             <text><b></b>1er Mouvt</text>
@@ -16574,7 +16576,7 @@ expressif</text>
             <sigD>8</sigD>
             </TimeSig>
           <SystemText>
-            <swing unit="" ratio= "60"/>
+            <swing unit="" ratio="60"/>
             <style>Tempo</style>
             <offset x="0" y="-4.29155"/>
             <text><b></b>Cadenza</text>
@@ -16633,7 +16635,7 @@ expressif</text>
       <Measure>
         <voice>
           <SystemText>
-            <swing unit="" ratio= "60"/>
+            <swing unit="" ratio="60"/>
             <style>Tempo</style>
             <offset x="0" y="-2.4397"/>
             <text><b></b>au Mouvt</text>

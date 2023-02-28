@@ -1,0 +1,168 @@
+{
+  "@context": [
+    "http://www.w3.org/ns/csvw#",
+    {
+      "@language": "en "
+    }
+  ],
+  "dc:title": "Note tables for debussy_etudes",
+  "dialect": {
+    "delimiter": "\t"
+  },
+  "dc:description": "One feature matrix per score, containing one row per note head. Not every row represents an onset because note heads may be tied together (see column 'tied'). For more information, please refer to the docs at https://johentsch.github.io/ms3/columns",
+  "dc:created": "2023-02-28T14:00:41",
+  "dc:creator": [
+    {
+      "@context": "https://schema.org/",
+      "@type": "SoftwareApplication",
+      "@id": "https://github.com/johentsch/ms3",
+      "name": "ms3",
+      "description": "A parser for MuseScore 3 files.",
+      "author": {
+        "name": "Johannes Hentschel",
+        "@id": "https://orcid.org/0000-0002-1986-9545"
+      },
+      "softwareVersion": "1.2.4"
+    }
+  ],
+  "tables": [
+    {
+      "url": "l136-01_etudes_cinq.tsv"
+    },
+    {
+      "url": "l136-02_etudes_tierces.tsv"
+    },
+    {
+      "url": "l136-03_etudes_quartes.tsv"
+    },
+    {
+      "url": "l136-04_etudes_sixtes.tsv"
+    },
+    {
+      "url": "l136-05_etudes_octaves.tsv"
+    },
+    {
+      "url": "l136-06_etudes_huit.tsv"
+    },
+    {
+      "url": "l136-07_etudes_degres.tsv"
+    },
+    {
+      "url": "l136-08_etudes_agrements.tsv"
+    },
+    {
+      "url": "l136-09_etudes_notes.tsv"
+    },
+    {
+      "url": "l136-10_etudes_sonorites.tsv"
+    },
+    {
+      "url": "l136-11_etudes_arpeges.tsv"
+    },
+    {
+      "url": "l136-12_etudes_accords.tsv"
+    }
+  ],
+  "tableSchema": {
+    "columns": [
+      {
+        "titles": "mc",
+        "datatype": "integer",
+        "dc:description": "Measure count."
+      },
+      {
+        "titles": "mn",
+        "datatype": "string",
+        "dc:description": "Measure number."
+      },
+      {
+        "titles": "quarterbeats",
+        "datatype": {
+          "base": "string",
+          "format": "-?\\d+(?:\\/\\d+)?"
+        }
+      },
+      {
+        "titles": "duration_qb",
+        "datatype": "float"
+      },
+      {
+        "titles": "mc_onset",
+        "datatype": {
+          "base": "string",
+          "format": "-?\\d+(?:\\/\\d+)?"
+        },
+        "dc:description": "An event's distance (fraction of a whole note) from the beginning of the MC."
+      },
+      {
+        "titles": "mn_onset",
+        "datatype": {
+          "base": "string",
+          "format": "-?\\d+(?:\\/\\d+)?"
+        },
+        "dc:description": "An event's distance (fraction of a whole note) from the beginning of the MN."
+      },
+      {
+        "titles": "timesig",
+        "datatype": "string"
+      },
+      {
+        "titles": "staff",
+        "datatype": "integer"
+      },
+      {
+        "titles": "voice",
+        "datatype": "integer"
+      },
+      {
+        "titles": "duration",
+        "datatype": {
+          "base": "string",
+          "format": "-?\\d+(?:\\/\\d+)?"
+        }
+      },
+      {
+        "titles": "gracenote",
+        "datatype": "string"
+      },
+      {
+        "titles": "nominal_duration",
+        "datatype": {
+          "base": "string",
+          "format": "-?\\d+(?:\\/\\d+)?"
+        }
+      },
+      {
+        "titles": "scalar",
+        "datatype": {
+          "base": "string",
+          "format": "-?\\d+(?:\\/\\d+)?"
+        }
+      },
+      {
+        "titles": "tied",
+        "datatype": "integer"
+      },
+      {
+        "titles": "tpc",
+        "datatype": "integer"
+      },
+      {
+        "titles": "midi",
+        "datatype": "integer"
+      },
+      {
+        "titles": "name",
+        "datatype": "string"
+      },
+      {
+        "titles": "octave",
+        "datatype": "integer"
+      },
+      {
+        "titles": "chord_id",
+        "datatype": "integer"
+      }
+    ]
+  }
+}

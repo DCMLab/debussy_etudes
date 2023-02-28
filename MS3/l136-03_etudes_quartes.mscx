@@ -22,6 +22,8 @@
     <showFrames>1</showFrames>
     <showMargins>0</showMargins>
     <metaTag name="arranger"></metaTag>
+    <metaTag name="composed_end">1915</metaTag>
+    <metaTag name="composed_start">1915</metaTag>
     <metaTag name="composer"></metaTag>
     <metaTag name="copyright"></metaTag>
     <metaTag name="creationDate">2022-02-28</metaTag>
@@ -1062,7 +1064,7 @@
             <showCourtesySig>0</showCourtesySig>
             </TimeSig>
           <SystemText>
-            <swing unit="" ratio= "60"/>
+            <swing unit="" ratio="60"/>
             <style>Tempo</style>
             <offset x="0" y="-6.77923"/>
             <text><b></b>Stretto</text>
@@ -1670,7 +1672,7 @@ martelé</i></text>
       <Measure>
         <voice>
           <SystemText>
-            <swing unit="" ratio= "60"/>
+            <swing unit="" ratio="60"/>
             <style>Tempo</style>
             <offset x="0" y="-4.36987"/>
             <text><b></b>Stretto</text>
@@ -2097,7 +2099,7 @@ martelé</i></text>
             <showCourtesySig>0</showCourtesySig>
             </TimeSig>
           <SystemText>
-            <swing unit="" ratio= "60"/>
+            <swing unit="" ratio="60"/>
             <style>Tempo</style>
             <offset x="0" y="-7.2716"/>
             <text><b></b>in Tempo I</text>
@@ -2772,7 +2774,7 @@ martelé</i></text>
       <Measure>
         <voice>
           <SystemText>
-            <swing unit="" ratio= "60"/>
+            <swing unit="" ratio="60"/>
             <style>Tempo</style>
             <text><b></b>rit.  -    -    //</text>
             </SystemText>
@@ -2854,7 +2856,7 @@ martelé</i></text>
       <Measure>
         <voice>
           <SystemText>
-            <swing unit="" ratio= "60"/>
+            <swing unit="" ratio="60"/>
             <style>Tempo</style>
             <offset x="0" y="-5.03652"/>
             <text><b></b>Risoluto un poco stretto</text>
@@ -3197,7 +3199,7 @@ martelé</i></text>
             <text>molto dim.</text>
             </StaffText>
           <SystemText>
-            <swing unit="" ratio= "60"/>
+            <swing unit="" ratio="60"/>
             <style>Tempo</style>
             <offset x="0" y="-6.19294"/>
             <text><b></b>rit. -  -    //</text>
@@ -3241,7 +3243,7 @@ martelé</i></text>
             <sigD>8</sigD>
             </TimeSig>
           <SystemText>
-            <swing unit="" ratio= "60"/>
+            <swing unit="" ratio="60"/>
             <style>Tempo</style>
             <offset x="0" y="-7.2716"/>
             <text><b></b>in Tempo I</text>
@@ -4258,7 +4260,7 @@ martelé</i></text>
             <fractions>-3/32</fractions>
             </location>
           <SystemText>
-            <swing unit="" ratio= "60"/>
+            <swing unit="" ratio="60"/>
             <style>Tempo</style>
             <offset x="0" y="-3.93737"/>
             <text><b></b>Poco rit. -  -  -  //</text>
@@ -4459,7 +4461,7 @@ martelé</i></text>
             <accidental>-6</accidental>
             </KeySig>
           <SystemText>
-            <swing unit="" ratio= "60"/>
+            <swing unit="" ratio="60"/>
             <style>Tempo</style>
             <text><b></b>Ballabile e grazioso (poco animando)</text>
             </SystemText>
@@ -5869,7 +5871,7 @@ martelé</i></text>
       <Measure>
         <voice>
           <SystemText>
-            <swing unit="" ratio= "60"/>
+            <swing unit="" ratio="60"/>
             <style>Tempo</style>
             <offset x="0.228351" y="-5.84794"/>
             <text><b></b>Stretto</text>
@@ -6441,7 +6443,7 @@ martelé</i></text>
       <Measure>
         <voice>
           <SystemText>
-            <swing unit="" ratio= "60"/>
+            <swing unit="" ratio="60"/>
             <style>Tempo</style>
             <offset x="0.228351" y="-5.84794"/>
             <text><b></b>Stretto</text>
@@ -6815,7 +6817,7 @@ martelé</i></text>
           </LayoutBreak>
         <voice>
           <SystemText>
-            <swing unit="" ratio= "60"/>
+            <swing unit="" ratio="60"/>
             <style>Tempo</style>
             <offset x="0" y="-3.70887"/>
             <text><b></b>in Tempo I (poco animando)</text>
@@ -7112,7 +7114,7 @@ martelé</i></text>
             <accidental>3</accidental>
             </KeySig>
           <SystemText>
-            <swing unit="" ratio= "60"/>
+            <swing unit="" ratio="60"/>
             <style>Tempo</style>
             <offset x="0" y="-6.40403"/>
             <text><b></b>Sempre animando</text>
@@ -7892,7 +7894,7 @@ martelé</i></text>
             <accidental>0</accidental>
             </KeySig>
           <SystemText>
-            <swing unit="" ratio= "60"/>
+            <swing unit="" ratio="60"/>
             <style>Tempo</style>
             <text><b></b>in Tempo I</text>
             </SystemText>
@@ -11751,7 +11753,7 @@ martelé</i></text>
             <accidental>-1</accidental>
             </KeySig>
           <SystemText>
-            <swing unit="" ratio= "60"/>
+            <swing unit="" ratio="60"/>
             <style>Tempo</style>
             <text><b></b>Tempo I</text>
             </SystemText>
@@ -12159,7 +12161,7 @@ martelé</i></text>
             <velocity>33</velocity>
             </Dynamic>
           <SystemText>
-            <swing unit="" ratio= "60"/>
+            <swing unit="" ratio="60"/>
             <style>Tempo</style>
             <text><b></b>Calmato</text>
             </SystemText>

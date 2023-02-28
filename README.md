@@ -17,4 +17,4 @@
 |l136-12_etudes_accords  |     181|     0|
 
 
-*Overview table updated using [ms3](https://johentsch.github.io/ms3/) 1.1.1.*
+*Overview table updated using [ms3](https://johentsch.github.io/ms3/) 1.2.4.*

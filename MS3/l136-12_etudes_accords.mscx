@@ -22,6 +22,8 @@
     <showFrames>1</showFrames>
     <showMargins>0</showMargins>
     <metaTag name="arranger"></metaTag>
+    <metaTag name="composed_end">1915</metaTag>
+    <metaTag name="composed_start">1915</metaTag>
     <metaTag name="composer"></metaTag>
     <metaTag name="copyright"></metaTag>
     <metaTag name="creationDate">2022-02-14</metaTag>
@@ -165,13 +167,13 @@
               </Groups>
             </TimeSig>
           <SystemText>
-            <swing unit="" ratio= "60"/>
+            <swing unit="" ratio="60"/>
             <style>Tempo</style>
             <offset x="-3.35854" y="-7.80753"/>
             <text><b></b><font size="10"></font>Décidé, rythmé, sans lourdeur</text>
             </SystemText>
           <SystemText>
-            <swing unit="" ratio= "60"/>
+            <swing unit="" ratio="60"/>
             <style>Tempo</style>
             <offset x="-8.13801" y="-11.5085"/>
             <text><b></b>Pour les accords</text>
@@ -3377,7 +3379,7 @@
               </Note>
             </Chord>
           <SystemText>
-            <swing unit="" ratio= "60"/>
+            <swing unit="" ratio="60"/>
             <style>Tempo</style>
             <offset x="0" y="-5.11933"/>
             <text><b></b>Poco allargando</text>
@@ -3949,7 +3951,7 @@
             <velocity>49</velocity>
             </Dynamic>
           <SystemText>
-            <swing unit="" ratio= "60"/>
+            <swing unit="" ratio="60"/>
             <style>Tempo</style>
             <text><b></b>in Tempo</text>
             </SystemText>
@@ -5546,7 +5548,7 @@
             <velocity>96</velocity>
             </Dynamic>
           <SystemText>
-            <swing unit="" ratio= "60"/>
+            <swing unit="" ratio="60"/>
             <style>Tempo</style>
             <text><b></b>Ritenuto ma con fuoco</text>
             </SystemText>
@@ -6164,7 +6166,7 @@
       <Measure>
         <voice>
           <SystemText>
-            <swing unit="" ratio= "60"/>
+            <swing unit="" ratio="60"/>
             <style>Tempo</style>
             <text><b></b>au Mouvt</text>
             </SystemText>
@@ -8019,7 +8021,7 @@
             <velocity>33</velocity>
             </Dynamic>
           <SystemText>
-            <swing unit="" ratio= "60"/>
+            <swing unit="" ratio="60"/>
             <style>Tempo</style>
             <text><b></b>Poco rit.   _        _        _        _        _        _        _        _        _      </text>
             </SystemText>
@@ -8231,7 +8233,7 @@
             <offset x="-3.92763" y="1.99763"/>
             </Dynamic>
           <SystemText>
-            <swing unit="" ratio= "60"/>
+            <swing unit="" ratio="60"/>
             <style>Tempo</style>
             <text><b></b>Lento, molto rubato</text>
             </SystemText>
@@ -9311,7 +9313,7 @@ legg.</text>
             <sigD>8</sigD>
             </TimeSig>
           <SystemText>
-            <swing unit="" ratio= "60"/>
+            <swing unit="" ratio="60"/>
             <style>Tempo</style>
             <offset x="0.5" y="-2.651"/>
             <text><b></b>rit.</text>
@@ -9507,7 +9509,7 @@ legg.</text>
       <Measure>
         <voice>
           <SystemText>
-            <swing unit="" ratio= "60"/>
+            <swing unit="" ratio="60"/>
             <style>Tempo</style>
             <offset x="0" y="-2.651"/>
             <text><b></b>a Tempo</text>
@@ -9852,7 +9854,7 @@ legg.</text>
             <transposingClefType>G</transposingClefType>
             </Clef>
           <SystemText>
-            <swing unit="" ratio= "60"/>
+            <swing unit="" ratio="60"/>
             <style>Tempo</style>
             <text><b></b>Poco</text>
             </SystemText>
@@ -10016,7 +10018,7 @@ legg.</text>
       <Measure>
         <voice>
           <SystemText>
-            <swing unit="" ratio= "60"/>
+            <swing unit="" ratio="60"/>
             <style>Tempo</style>
             <text><b></b>stretto _      _        </text>
             </SystemText>
@@ -10142,7 +10144,7 @@ legg.</text>
       <Measure>
         <voice>
           <SystemText>
-            <swing unit="" ratio= "60"/>
+            <swing unit="" ratio="60"/>
             <style>Tempo</style>
             <offset x="0" y="-2.651"/>
             <text><b></b>a Tempo</text>
@@ -10745,7 +10747,7 @@ legg.</text>
       <Measure>
         <voice>
           <SystemText>
-            <swing unit="" ratio= "60"/>
+            <swing unit="" ratio="60"/>
             <style>Tempo</style>
             <text><b></b>Poco stretto </text>
             </SystemText>
@@ -10942,7 +10944,7 @@ legg.</text>
               </Note>
             </Chord>
           <SystemText>
-            <swing unit="" ratio= "60"/>
+            <swing unit="" ratio="60"/>
             <style>Tempo</style>
             <offset x="0" y="-3.57551"/>
             <text><b></b>rit. _      _        </text>
@@ -11066,7 +11068,7 @@ legg.</text>
             <accidental>-3</accidental>
             </KeySig>
           <SystemText>
-            <swing unit="" ratio= "60"/>
+            <swing unit="" ratio="60"/>
             <style>Tempo</style>
             <offset x="0" y="-2.651"/>
             <text><b></b>a Tempo</text>
@@ -11313,7 +11315,7 @@ legg.</text>
             <accidental>6</accidental>
             </KeySig>
           <SystemText>
-            <swing unit="" ratio= "60"/>
+            <swing unit="" ratio="60"/>
             <style>Tempo</style>
             <offset x="0" y="-3.57551"/>
             <text><b></b>rit. _      _        </text>
@@ -11460,7 +11462,7 @@ legg.</text>
             <text><i></i><font face="ScoreText"></font></text>
             </Dynamic>
           <SystemText>
-            <swing unit="" ratio= "60"/>
+            <swing unit="" ratio="60"/>
             <style>Tempo</style>
             <offset x="0" y="-2.651"/>
             <text><b></b>a Tempo</text>
@@ -12090,7 +12092,7 @@ legg.</text>
               </Note>
             </Chord>
           <SystemText>
-            <swing unit="" ratio= "60"/>
+            <swing unit="" ratio="60"/>
             <style>Tempo</style>
             <text><b></b>Poco stretto </text>
             </SystemText>
@@ -12709,7 +12711,7 @@ legg.</text>
       <Measure>
         <voice>
           <SystemText>
-            <swing unit="" ratio= "60"/>
+            <swing unit="" ratio="60"/>
             <style>Tempo</style>
             <offset x="0" y="-3.57551"/>
             <text><b></b>rit. _      _        </text>
@@ -12881,7 +12883,7 @@ legg.</text>
       <Measure>
         <voice>
           <SystemText>
-            <swing unit="" ratio= "60"/>
+            <swing unit="" ratio="60"/>
             <style>Tempo</style>
             <offset x="0" y="-4.92052"/>
             <text><b></b>a Tempo</text>
@@ -13198,7 +13200,7 @@ legg.</text>
             <transposingClefType>F</transposingClefType>
             </Clef>
           <SystemText>
-            <swing unit="" ratio= "60"/>
+            <swing unit="" ratio="60"/>
             <style>Tempo</style>
             <text><b></b>rit.</text>
             </SystemText>
@@ -13264,7 +13266,7 @@ legg.</text>
             <sigD>8</sigD>
             </TimeSig>
           <SystemText>
-            <swing unit="" ratio= "60"/>
+            <swing unit="" ratio="60"/>
             <style>Tempo</style>
             <text><b></b>1er Mouvt</text>
             </SystemText>
@@ -14262,7 +14264,7 @@ legg.</text>
               </Note>
             </Chord>
           <SystemText>
-            <swing unit="" ratio= "60"/>
+            <swing unit="" ratio="60"/>
             <style>Tempo</style>
             <text><b></b>un poco accel.</text>
             </SystemText>
@@ -14588,7 +14590,7 @@ legg.</text>
       <Measure>
         <voice>
           <SystemText>
-            <swing unit="" ratio= "60"/>
+            <swing unit="" ratio="60"/>
             <style>Tempo</style>
             <offset x="0" y="-6.56996"/>
             <text>1er Mouvt</text>
