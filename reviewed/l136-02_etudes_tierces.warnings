@@ -1,0 +1,509 @@
+Warnings encountered during the last execution of ms3 review (v1.2.9)
+=====================================================================
+
+WARNING  ms3.Parse.debussy_etudes.l136-02_etudes_tierces
+	Event already contained a 'Fingering_text': 3
+WARNING  ms3.Parse.debussy_etudes.l136-02_etudes_tierces
+	Event already contained a 'Fingering_text': 2
+WARNING  ms3.Parse.debussy_etudes.l136-02_etudes_tierces
+	Event already contained a 'Fingering_text': 1
+WARNING  ms3.Parse.debussy_etudes.l136-02_etudes_tierces
+	Event already contained a 'Fingering_text': 2
+WARNING  ms3.Parse.debussy_etudes.l136-02_etudes_tierces
+	Event already contained a 'Fingering_text': 1
+WARNING  ms3.Parse.debussy_etudes.l136-02_etudes_tierces
+	Event already contained a 'Fingering_text': 2
+WARNING  ms3.Parse.debussy_etudes.l136-02_etudes_tierces
+	Event already contained a 'Fingering_text': 1
+WARNING  ms3.Parse.debussy_etudes.l136-02_etudes_tierces
+	Event already contained a 'Fingering_text': 2
+WARNING  ms3.Parse.debussy_etudes.l136-02_etudes_tierces
+	Event already contained a 'Fingering_text': 1
+WARNING  ms3.Parse.debussy_etudes.l136-02_etudes_tierces
+	Event already contained a 'Fingering_text': 1
+WARNING  ms3.Parse.debussy_etudes.l136-02_etudes_tierces
+	Event already contained a 'Fingering_text': 1
+WARNING  ms3.Parse.debussy_etudes.l136-02_etudes_tierces
+	Event already contained a 'Fingering_text': 1
+WARNING  ms3.Parse.debussy_etudes.l136-02_etudes_tierces
+	Event already contained a 'Fingering_text': 2
+WARNING  ms3.Parse.debussy_etudes.l136-02_etudes_tierces
+	Event already contained a 'Fingering_text': 1
+WARNING  ms3.Parse.debussy_etudes.l136-02_etudes_tierces
+	Event already contained a 'Fingering_text': 2
+WARNING  ms3.Parse.debussy_etudes.l136-02_etudes_tierces
+	Event already contained a 'Fingering_text': 1
+WARNING  ms3.Parse.debussy_etudes.l136-02_etudes_tierces
+	Event already contained a 'Fingering_text': 2
+WARNING  ms3.Parse.debussy_etudes.l136-02_etudes_tierces
+	Event already contained a 'Fingering_text': 1
+WARNING  ms3.Parse.debussy_etudes.l136-02_etudes_tierces
+	Event already contained a 'Fingering_text': 2
+WARNING  ms3.Parse.debussy_etudes.l136-02_etudes_tierces
+	Event already contained a 'Fingering_text': 1
+WARNING  ms3.Parse.debussy_etudes.l136-02_etudes_tierces
+	Event already contained a 'Fingering_text': 2
+WARNING  ms3.Parse.debussy_etudes.l136-02_etudes_tierces
+	Event already contained a 'Fingering_text': 1
+WARNING  ms3.Parse.debussy_etudes.l136-02_etudes_tierces
+	Event already contained a 'Fingering_text': 1
+WARNING  ms3.Parse.debussy_etudes.l136-02_etudes_tierces
+	Event already contained a 'Fingering_text': 2
+WARNING  ms3.Parse.debussy_etudes.l136-02_etudes_tierces
+	Event already contained a 'Fingering_text': 1
+WARNING  ms3.Parse.debussy_etudes.l136-02_etudes_tierces
+	Event already contained a 'Fingering_text': 2
+WARNING  ms3.Parse.debussy_etudes.l136-02_etudes_tierces
+	Event already contained a 'Fingering_text': 3
+WARNING  ms3.Parse.debussy_etudes.l136-02_etudes_tierces
+	Event already contained a 'Fingering_text': 1
+WARNING  ms3.Parse.debussy_etudes.l136-02_etudes_tierces
+	Event already contained a 'Fingering_text': 1
+WARNING  ms3.Parse.debussy_etudes.l136-02_etudes_tierces
+	Event already contained a 'Fingering_text': 1
+WARNING  ms3.Parse.debussy_etudes.l136-02_etudes_tierces
+	Event already contained a 'Fingering_text': 1
+WARNING  ms3.Parse.debussy_etudes.l136-02_etudes_tierces
+	Event already contained a 'Fingering_text': 1
+WARNING  ms3.Parse.debussy_etudes.l136-02_etudes_tierces
+	Event already contained a 'Fingering_text': 2
+WARNING  ms3.Parse.debussy_etudes.l136-02_etudes_tierces
+	Event already contained a 'Fingering_text': 5
+WARNING  ms3.Parse.debussy_etudes.l136-02_etudes_tierces
+	Event already contained a 'Fingering_text': 4
+WARNING  ms3.Parse.debussy_etudes.l136-02_etudes_tierces
+	Event already contained a 'Fingering_text': 3
+WARNING  ms3.Parse.debussy_etudes.l136-02_etudes_tierces
+	Event already contained a 'Fingering_text': 2
+WARNING  ms3.Parse.debussy_etudes.l136-02_etudes_tierces
+	Event already contained a 'Fingering_text': 2
+WARNING  ms3.Parse.debussy_etudes.l136-02_etudes_tierces
+	Event already contained a 'Fingering_text': 2
+WARNING  ms3.Parse.debussy_etudes.l136-02_etudes_tierces
+	Event already contained a 'Fingering_text': 1
+WARNING  ms3.Parse.debussy_etudes.l136-02_etudes_tierces
+	Event already contained a 'Fingering_text': 2
+WARNING  ms3.Parse.debussy_etudes.l136-02_etudes_tierces
+	Event already contained a 'Fingering_text': 1
+WARNING  ms3.Parse.debussy_etudes.l136-02_etudes_tierces
+	Event already contained a 'Fingering_text': 2
+WARNING  ms3.Parse.debussy_etudes.l136-02_etudes_tierces
+	Event already contained a 'Fingering_text': 4
+WARNING  ms3.Parse.debussy_etudes.l136-02_etudes_tierces
+	Event already contained a 'Fingering_text': 4
+WARNING  ms3.Parse.debussy_etudes.l136-02_etudes_tierces
+	Event already contained a 'Fingering_text': 1
+WARNING  ms3.Parse.debussy_etudes.l136-02_etudes_tierces
+	Event already contained a 'Fingering_text': 3
+WARNING  ms3.Parse.debussy_etudes.l136-02_etudes_tierces
+	Event already contained a 'Fingering_text': 1
+WARNING  ms3.Parse.debussy_etudes.l136-02_etudes_tierces
+	Event already contained a 'Fingering_text': 2
+WARNING  ms3.Parse.debussy_etudes.l136-02_etudes_tierces
+	Event already contained a 'Fingering_text': 1
+WARNING  ms3.Parse.debussy_etudes.l136-02_etudes_tierces
+	Event already contained a 'Fingering_text': 1
+WARNING  ms3.Parse.debussy_etudes.l136-02_etudes_tierces
+	Event already contained a 'Fingering_text': 2
+WARNING  ms3.Parse.debussy_etudes.l136-02_etudes_tierces
+	Event already contained a 'Fingering_text': 3
+WARNING  ms3.Parse.debussy_etudes.l136-02_etudes_tierces
+	Event already contained a 'Fingering_text': 2
+WARNING  ms3.Parse.debussy_etudes.l136-02_etudes_tierces
+	Event already contained a 'Fingering_text': 3
+WARNING  ms3.Parse.debussy_etudes.l136-02_etudes_tierces
+	Event already contained a 'Fingering_text': 1
+WARNING  ms3.Parse.debussy_etudes.l136-02_etudes_tierces
+	Event already contained a 'Fingering_text': 1
+WARNING  ms3.Parse.debussy_etudes.l136-02_etudes_tierces
+	Event already contained a 'Fingering_text': 1
+WARNING  ms3.Parse.debussy_etudes.l136-02_etudes_tierces
+	Event already contained a 'Fingering_text': 1
+WARNING  ms3.Parse.debussy_etudes.l136-02_etudes_tierces
+	Event already contained a 'Fingering_text': 2
+WARNING  ms3.Parse.debussy_etudes.l136-02_etudes_tierces
+	Event already contained a 'Fingering_text': 1
+WARNING  ms3.Parse.debussy_etudes.l136-02_etudes_tierces
+	Event already contained a 'Fingering_text': 3
+WARNING  ms3.Parse.debussy_etudes.l136-02_etudes_tierces
+	Event already contained a 'Fingering_text': 2
+WARNING  ms3.Parse.debussy_etudes.l136-02_etudes_tierces
+	Event already contained a 'Fingering_text': 1
+WARNING  ms3.Parse.debussy_etudes.l136-02_etudes_tierces
+	Event already contained a 'Fingering_text': 2
+WARNING  ms3.Parse.debussy_etudes.l136-02_etudes_tierces
+	Event already contained a 'Fingering_text': 2
+WARNING  ms3.Parse.debussy_etudes.l136-02_etudes_tierces
+	Event already contained a 'Fingering_text': 2
+WARNING  ms3.Parse.debussy_etudes.l136-02_etudes_tierces
+	Event already contained a 'Fingering_text': 2
+WARNING  ms3.Parse.debussy_etudes.l136-02_etudes_tierces
+	Event already contained a 'Fingering_text': 1
+WARNING  ms3.Parse.debussy_etudes.l136-02_etudes_tierces
+	Event already contained a 'Fingering_text': 1
+WARNING  ms3.Parse.debussy_etudes.l136-02_etudes_tierces
+	Event already contained a 'Fingering_text': 1
+WARNING  ms3.Parse.debussy_etudes.l136-02_etudes_tierces
+	Event already contained a 'Fingering_text': 2
+WARNING  ms3.Parse.debussy_etudes.l136-02_etudes_tierces
+	Event already contained a 'Fingering_text': 2
+WARNING  ms3.Parse.debussy_etudes.l136-02_etudes_tierces
+	Event already contained a 'Fingering_text': 1
+WARNING  ms3.Parse.debussy_etudes.l136-02_etudes_tierces
+	Event already contained a 'Fingering_text': 2
+WARNING  ms3.Parse.debussy_etudes.l136-02_etudes_tierces
+	Event already contained a 'Fingering_text': 1
+WARNING  ms3.Parse.debussy_etudes.l136-02_etudes_tierces
+	Event already contained a 'Fingering_text': 2
+WARNING  ms3.Parse.debussy_etudes.l136-02_etudes_tierces
+	Event already contained a 'Fingering_text': 2
+WARNING  ms3.Parse.debussy_etudes.l136-02_etudes_tierces
+	Event already contained a 'Fingering_text': 1
+WARNING  ms3.Parse.debussy_etudes.l136-02_etudes_tierces
+	Event already contained a 'Fingering_text': 2
+WARNING  ms3.Parse.debussy_etudes.l136-02_etudes_tierces
+	Event already contained a 'Fingering_text': 1
+WARNING  ms3.Parse.debussy_etudes.l136-02_etudes_tierces
+	Event already contained a 'Fingering_text': 2
+WARNING  ms3.Parse.debussy_etudes.l136-02_etudes_tierces
+	Event already contained a 'Fingering_text': 3
+WARNING  ms3.Parse.debussy_etudes.l136-02_etudes_tierces
+	Event already contained a 'Fingering_text': 1
+WARNING  ms3.Parse.debussy_etudes.l136-02_etudes_tierces
+	Event already contained a 'Fingering_text': 2
+WARNING  ms3.Parse.debussy_etudes.l136-02_etudes_tierces
+	Event already contained a 'Fingering_text': 2
+WARNING  ms3.Parse.debussy_etudes.l136-02_etudes_tierces
+	Event already contained a 'Fingering_text': 1
+WARNING  ms3.Parse.debussy_etudes.l136-02_etudes_tierces
+	Event already contained a 'Fingering_text': 1
+WARNING  ms3.Parse.debussy_etudes.l136-02_etudes_tierces
+	Event already contained a 'Fingering_text': 1
+WARNING  ms3.Parse.debussy_etudes.l136-02_etudes_tierces
+	Event already contained a 'Fingering_text': 1
+WARNING  ms3.Parse.debussy_etudes.l136-02_etudes_tierces
+	Event already contained a 'Fingering_text': 2
+WARNING  ms3.Parse.debussy_etudes.l136-02_etudes_tierces
+	Event already contained a 'Fingering_text': 1
+WARNING  ms3.Parse.debussy_etudes.l136-02_etudes_tierces
+	Event already contained a 'Fingering_text': 1
+WARNING  ms3.Parse.debussy_etudes.l136-02_etudes_tierces
+	Event already contained a 'Fingering_text': 2
+WARNING  ms3.Parse.debussy_etudes.l136-02_etudes_tierces
+	Event already contained a 'Fingering_text': 2
+WARNING  ms3.Parse.debussy_etudes.l136-02_etudes_tierces
+	Event already contained a 'Fingering_text': 1
+WARNING  ms3.Parse.debussy_etudes.l136-02_etudes_tierces
+	Event already contained a 'Fingering_text': 2
+WARNING  ms3.Parse.debussy_etudes.l136-02_etudes_tierces
+	Event already contained a 'Fingering_text': 1
+WARNING  ms3.Parse.debussy_etudes.l136-02_etudes_tierces
+	Event already contained a 'Fingering_text': 2
+WARNING  ms3.Parse.debussy_etudes.l136-02_etudes_tierces
+	Event already contained a 'Fingering_text': 2
+WARNING  ms3.Parse.debussy_etudes.l136-02_etudes_tierces
+	Event already contained a 'Fingering_text': 2
+WARNING  ms3.Parse.debussy_etudes.l136-02_etudes_tierces
+	Event already contained a 'Fingering_text': 2
+WARNING  ms3.Parse.debussy_etudes.l136-02_etudes_tierces
+	Event already contained a 'Fingering_text': 1
+WARNING  ms3.Parse.debussy_etudes.l136-02_etudes_tierces
+	Event already contained a 'Fingering_text': 3
+WARNING  ms3.Parse.debussy_etudes.l136-02_etudes_tierces
+	Event already contained a 'Fingering_text': 2
+WARNING  ms3.Parse.debussy_etudes.l136-02_etudes_tierces
+	Event already contained a 'Fingering_text': 1
+WARNING  ms3.Parse.debussy_etudes.l136-02_etudes_tierces
+	Event already contained a 'Fingering_text': 2
+WARNING  ms3.Parse.debussy_etudes.l136-02_etudes_tierces
+	Event already contained a 'Fingering_text': 1
+WARNING  ms3.Parse.debussy_etudes.l136-02_etudes_tierces
+	Event already contained a 'Fingering_text': 3
+WARNING  ms3.Parse.debussy_etudes.l136-02_etudes_tierces
+	Event already contained a 'Fingering_text': 2
+WARNING  ms3.Parse.debussy_etudes.l136-02_etudes_tierces
+	Event already contained a 'Fingering_text': 1
+WARNING  ms3.Parse.debussy_etudes.l136-02_etudes_tierces
+	Event already contained a 'Fingering_text': 1
+WARNING  ms3.Parse.debussy_etudes.l136-02_etudes_tierces
+	Event already contained a 'Fingering_text': 3
+WARNING  ms3.Parse.debussy_etudes.l136-02_etudes_tierces
+	Event already contained a 'Fingering_text': 2
+WARNING  ms3.Parse.debussy_etudes.l136-02_etudes_tierces
+	Event already contained a 'Fingering_text': 2
+WARNING  ms3.Parse.debussy_etudes.l136-02_etudes_tierces
+	Event already contained a 'Fingering_text': 2
+WARNING  ms3.Parse.debussy_etudes.l136-02_etudes_tierces
+	Event already contained a 'Fingering_text': 2
+WARNING  ms3.Parse.debussy_etudes.l136-02_etudes_tierces
+	Event already contained a 'Fingering_text': 1
+WARNING  ms3.Parse.debussy_etudes.l136-02_etudes_tierces
+	Event already contained a 'Fingering_text': 1
+WARNING  ms3.Parse.debussy_etudes.l136-02_etudes_tierces
+	Event already contained a 'Fingering_text': 1
+WARNING  ms3.Parse.debussy_etudes.l136-02_etudes_tierces
+	Event already contained a 'Fingering_text': 3
+WARNING  ms3.Parse.debussy_etudes.l136-02_etudes_tierces
+	Event already contained a 'Fingering_text': 4
+WARNING  ms3.Parse.debussy_etudes.l136-02_etudes_tierces
+	Event already contained a 'Fingering_text': 3
+WARNING  ms3.Parse.debussy_etudes.l136-02_etudes_tierces
+	Event already contained a 'Fingering_text': 4
+WARNING  ms3.Parse.debussy_etudes.l136-02_etudes_tierces
+	Event already contained a 'Fingering_text': 4
+WARNING  ms3.Parse.debussy_etudes.l136-02_etudes_tierces
+	Event already contained a 'Fingering_text': 3
+WARNING  ms3.Parse.debussy_etudes.l136-02_etudes_tierces
+	Event already contained a 'Fingering_text': 4
+WARNING  ms3.Parse.debussy_etudes.l136-02_etudes_tierces
+	Event already contained a 'Fingering_text': 4
+WARNING  ms3.Parse.debussy_etudes.l136-02_etudes_tierces
+	Event already contained a 'Fingering_text': 1
+WARNING  ms3.Parse.debussy_etudes.l136-02_etudes_tierces
+	Event already contained a 'Fingering_text': 1
+WARNING  ms3.Parse.debussy_etudes.l136-02_etudes_tierces
+	Event already contained a 'Fingering_text': 1
+WARNING  ms3.Parse.debussy_etudes.l136-02_etudes_tierces
+	Event already contained a 'Fingering_text': 2
+WARNING  ms3.Parse.debussy_etudes.l136-02_etudes_tierces
+	Event already contained a 'Fingering_text': 1
+WARNING  ms3.Parse.debussy_etudes.l136-02_etudes_tierces
+	Event already contained a 'Fingering_text': 1
+WARNING  ms3.Parse.debussy_etudes.l136-02_etudes_tierces
+	Event already contained a 'Fingering_text': 2
+WARNING  ms3.Parse.debussy_etudes.l136-02_etudes_tierces
+	Event already contained a 'Fingering_text': 2
+WARNING  ms3.Parse.debussy_etudes.l136-02_etudes_tierces
+	Event already contained a 'Fingering_text': 4
+WARNING  ms3.Parse.debussy_etudes.l136-02_etudes_tierces
+	Event already contained a 'Fingering_text': 3
+WARNING  ms3.Parse.debussy_etudes.l136-02_etudes_tierces
+	Event already contained a 'Fingering_text': 3
+WARNING  ms3.Parse.debussy_etudes.l136-02_etudes_tierces
+	Event already contained a 'Fingering_text': 1
+WARNING  ms3.Parse.debussy_etudes.l136-02_etudes_tierces
+	Event already contained a 'Fingering_text': 3
+WARNING  ms3.Parse.debussy_etudes.l136-02_etudes_tierces
+	Event already contained a 'Fingering_text': 4
+WARNING  ms3.Parse.debussy_etudes.l136-02_etudes_tierces
+	Event already contained a 'Fingering_text': 2
+WARNING  ms3.Parse.debussy_etudes.l136-02_etudes_tierces
+	Event already contained a 'Fingering_text': 2
+WARNING  ms3.Parse.debussy_etudes.l136-02_etudes_tierces
+	Event already contained a 'Fingering_text': 3
+WARNING  ms3.Parse.debussy_etudes.l136-02_etudes_tierces
+	Event already contained a 'Fingering_text': 4
+WARNING  ms3.Parse.debussy_etudes.l136-02_etudes_tierces
+	Event already contained a 'Fingering_text': 5
+WARNING  ms3.Parse.debussy_etudes.l136-02_etudes_tierces
+	Event already contained a 'Fingering_text': 2
+WARNING  ms3.Parse.debussy_etudes.l136-02_etudes_tierces
+	Event already contained a 'Fingering_text': 3
+WARNING  ms3.Parse.debussy_etudes.l136-02_etudes_tierces
+	Event already contained a 'Fingering_text': 2
+WARNING  ms3.Parse.debussy_etudes.l136-02_etudes_tierces
+	Event already contained a 'Fingering_text': 3
+WARNING  ms3.Parse.debussy_etudes.l136-02_etudes_tierces
+	Event already contained a 'Fingering_text': 1
+WARNING  ms3.Parse.debussy_etudes.l136-02_etudes_tierces
+	Event already contained a 'Fingering_text': 5
+WARNING  ms3.Parse.debussy_etudes.l136-02_etudes_tierces
+	Event already contained a 'Fingering_text': 2
+WARNING  ms3.Parse.debussy_etudes.l136-02_etudes_tierces
+	Event already contained a 'Fingering_text': 1
+WARNING  ms3.Parse.debussy_etudes.l136-02_etudes_tierces
+	Event already contained a 'Fingering_text': 1
+WARNING  ms3.Parse.debussy_etudes.l136-02_etudes_tierces
+	Event already contained a 'Fingering_text': 3
+WARNING  ms3.Parse.debussy_etudes.l136-02_etudes_tierces
+	Event already contained a 'Fingering_text': 1
+WARNING  ms3.Parse.debussy_etudes.l136-02_etudes_tierces
+	Event already contained a 'Fingering_text': 2
+WARNING  ms3.Parse.debussy_etudes.l136-02_etudes_tierces
+	Event already contained a 'Fingering_text': 1
+WARNING  ms3.Parse.debussy_etudes.l136-02_etudes_tierces
+	Event already contained a 'Fingering_text': 3
+WARNING  ms3.Parse.debussy_etudes.l136-02_etudes_tierces
+	Event already contained a 'Fingering_text': 1
+WARNING  ms3.Parse.debussy_etudes.l136-02_etudes_tierces
+	Event already contained a 'Fingering_text': 2
+WARNING  ms3.Parse.debussy_etudes.l136-02_etudes_tierces
+	Event already contained a 'Fingering_text': 1
+WARNING  ms3.Parse.debussy_etudes.l136-02_etudes_tierces
+	Event already contained a 'Fingering_text': 2
+WARNING  ms3.Parse.debussy_etudes.l136-02_etudes_tierces
+	Event already contained a 'Fingering_text': 2
+WARNING  ms3.Parse.debussy_etudes.l136-02_etudes_tierces
+	Event already contained a 'Fingering_text': 1
+WARNING  ms3.Parse.debussy_etudes.l136-02_etudes_tierces
+	Event already contained a 'Fingering_text': 2
+WARNING  ms3.Parse.debussy_etudes.l136-02_etudes_tierces
+	Event already contained a 'Fingering_text': 2
+WARNING  ms3.Parse.debussy_etudes.l136-02_etudes_tierces
+	Event already contained a 'Fingering_text': 2
+WARNING  ms3.Parse.debussy_etudes.l136-02_etudes_tierces
+	Event already contained a 'Fingering_text': 1
+WARNING  ms3.Parse.debussy_etudes.l136-02_etudes_tierces
+	Event already contained a 'Fingering_text': 1
+WARNING  ms3.Parse.debussy_etudes.l136-02_etudes_tierces
+	Event already contained a 'Fingering_text': 1
+WARNING  ms3.Parse.debussy_etudes.l136-02_etudes_tierces
+	Event already contained a 'Fingering_text': 2
+WARNING  ms3.Parse.debussy_etudes.l136-02_etudes_tierces
+	Event already contained a 'Fingering_text': 1
+WARNING  ms3.Parse.debussy_etudes.l136-02_etudes_tierces
+	Event already contained a 'Fingering_text': 1
+WARNING  ms3.Parse.debussy_etudes.l136-02_etudes_tierces
+	Event already contained a 'Fingering_text': 1
+WARNING  ms3.Parse.debussy_etudes.l136-02_etudes_tierces
+	Event already contained a 'Fingering_text': 1
+WARNING  ms3.Parse.debussy_etudes.l136-02_etudes_tierces
+	Event already contained a 'Fingering_text': 2
+WARNING  ms3.Parse.debussy_etudes.l136-02_etudes_tierces
+	Event already contained a 'Fingering_text': 2
+WARNING  ms3.Parse.debussy_etudes.l136-02_etudes_tierces
+	Event already contained a 'Fingering_text': 2
+WARNING  ms3.Parse.debussy_etudes.l136-02_etudes_tierces
+	Event already contained a 'Fingering_text': 2
+WARNING  ms3.Parse.debussy_etudes.l136-02_etudes_tierces
+	Event already contained a 'Fingering_text': 1
+WARNING  ms3.Parse.debussy_etudes.l136-02_etudes_tierces
+	Event already contained a 'Fingering_text': 2
+WARNING  ms3.Parse.debussy_etudes.l136-02_etudes_tierces
+	Event already contained a 'Fingering_text': 1
+WARNING  ms3.Parse.debussy_etudes.l136-02_etudes_tierces
+	Event already contained a 'Fingering_text': 1
+WARNING  ms3.Parse.debussy_etudes.l136-02_etudes_tierces
+	Event already contained a 'Fingering_text': 2
+WARNING  ms3.Parse.debussy_etudes.l136-02_etudes_tierces
+	Event already contained a 'Fingering_text': 1
+WARNING  ms3.Parse.debussy_etudes.l136-02_etudes_tierces
+	Event already contained a 'Fingering_text': 1
+WARNING  ms3.Parse.debussy_etudes.l136-02_etudes_tierces
+	Event already contained a 'Fingering_text': 2
+WARNING  ms3.Parse.debussy_etudes.l136-02_etudes_tierces
+	Event already contained a 'Fingering_text': 1
+WARNING  ms3.Parse.debussy_etudes.l136-02_etudes_tierces
+	Event already contained a 'Fingering_text': 1
+WARNING  ms3.Parse.debussy_etudes.l136-02_etudes_tierces
+	Event already contained a 'Fingering_text': 1
+WARNING  ms3.Parse.debussy_etudes.l136-02_etudes_tierces
+	Event already contained a 'Fingering_text': 1
+WARNING  ms3.Parse.debussy_etudes.l136-02_etudes_tierces
+	Event already contained a 'Fingering_text': 1
+WARNING  ms3.Parse.debussy_etudes.l136-02_etudes_tierces
+	Event already contained a 'Fingering_text': 1
+WARNING  ms3.Parse.debussy_etudes.l136-02_etudes_tierces
+	Event already contained a 'Fingering_text': 1
+WARNING  ms3.Parse.debussy_etudes.l136-02_etudes_tierces
+	Event already contained a 'Fingering_text': 2
+WARNING  ms3.Parse.debussy_etudes.l136-02_etudes_tierces
+	Event already contained a 'Fingering_text': 2
+WARNING  ms3.Parse.debussy_etudes.l136-02_etudes_tierces
+	Event already contained a 'Fingering_text': 1
+WARNING  ms3.Parse.debussy_etudes.l136-02_etudes_tierces
+	Event already contained a 'Fingering_text': 1
+WARNING  ms3.Parse.debussy_etudes.l136-02_etudes_tierces
+	Event already contained a 'Fingering_text': 2
+WARNING  ms3.Parse.debussy_etudes.l136-02_etudes_tierces
+	Event already contained a 'Fingering_text': 1
+WARNING  ms3.Parse.debussy_etudes.l136-02_etudes_tierces
+	Event already contained a 'Fingering_text': 1
+WARNING  ms3.Parse.debussy_etudes.l136-02_etudes_tierces
+	Event already contained a 'Fingering_text': 1
+WARNING  ms3.Parse.debussy_etudes.l136-02_etudes_tierces
+	Event already contained a 'Fingering_text': 1
+WARNING  ms3.Parse.debussy_etudes.l136-02_etudes_tierces
+	Event already contained a 'Fingering_text': 2
+WARNING  ms3.Parse.debussy_etudes.l136-02_etudes_tierces
+	Event already contained a 'Fingering_text': 2
+WARNING  ms3.Parse.debussy_etudes.l136-02_etudes_tierces
+	Event already contained a 'Fingering_text': 4
+WARNING  ms3.Parse.debussy_etudes.l136-02_etudes_tierces
+	Event already contained a 'Fingering_text': 1
+WARNING  ms3.Parse.debussy_etudes.l136-02_etudes_tierces
+	Event already contained a 'Fingering_text': 2
+WARNING  ms3.Parse.debussy_etudes.l136-02_etudes_tierces
+	Event already contained a 'Fingering_text': 2
+WARNING  ms3.Parse.debussy_etudes.l136-02_etudes_tierces
+	Event already contained a 'Fingering_text': 4
+WARNING  ms3.Parse.debussy_etudes.l136-02_etudes_tierces
+	Event already contained a 'Fingering_text': 1
+WARNING  ms3.Parse.debussy_etudes.l136-02_etudes_tierces
+	Event already contained a 'Fingering_text': 2
+WARNING  ms3.Parse.debussy_etudes.l136-02_etudes_tierces
+	Event already contained a 'Fingering_text': 1
+WARNING  ms3.Parse.debussy_etudes.l136-02_etudes_tierces
+	Event already contained a 'Fingering_text': 5
+WARNING  ms3.Parse.debussy_etudes.l136-02_etudes_tierces
+	Event already contained a 'Fingering_text': 4
+WARNING  ms3.Parse.debussy_etudes.l136-02_etudes_tierces
+	Event already contained a 'Fingering_text': 1
+WARNING  ms3.Parse.debussy_etudes.l136-02_etudes_tierces
+	Event already contained a 'Fingering_text': 1
+WARNING  ms3.Parse.debussy_etudes.l136-02_etudes_tierces
+	Event already contained a 'Fingering_text': 1
+WARNING  ms3.Parse.debussy_etudes.l136-02_etudes_tierces
+	Event already contained a 'Fingering_text': 2
+WARNING  ms3.Parse.debussy_etudes.l136-02_etudes_tierces
+	Event already contained a 'Fingering_text': 3
+WARNING  ms3.Parse.debussy_etudes.l136-02_etudes_tierces
+	Event already contained a 'Fingering_text': 5
+WARNING  ms3.Parse.debussy_etudes.l136-02_etudes_tierces
+	Event already contained a 'Fingering_text': 4
+WARNING  ms3.Parse.debussy_etudes.l136-02_etudes_tierces
+	Event already contained a 'Fingering_text': 4
+WARNING  ms3.Parse.debussy_etudes.l136-02_etudes_tierces
+	Event already contained a 'Fingering_text': 5
+WARNING  ms3.Parse.debussy_etudes.l136-02_etudes_tierces
+	Event already contained a 'Fingering_text': 4
+WARNING  ms3.Parse.debussy_etudes.l136-02_etudes_tierces
+	Event already contained a 'Fingering_text': 1
+WARNING  ms3.Parse.debussy_etudes.l136-02_etudes_tierces
+	Event already contained a 'Fingering_text': 1
+WARNING  ms3.Parse.debussy_etudes.l136-02_etudes_tierces
+	Event already contained a 'Fingering_text': 1
+WARNING  ms3.Parse.debussy_etudes.l136-02_etudes_tierces
+	Event already contained a 'Fingering_text': 2
+WARNING  ms3.Parse.debussy_etudes.l136-02_etudes_tierces
+	Event already contained a 'Fingering_text': 3
+WARNING  ms3.Parse.debussy_etudes.l136-02_etudes_tierces
+	Event already contained a 'Fingering_text': 2
+WARNING  ms3.Parse.debussy_etudes.l136-02_etudes_tierces
+	Event already contained a 'Fingering_text': 1
+WARNING  ms3.Parse.debussy_etudes.l136-02_etudes_tierces
+	Event already contained a 'Fingering_text': 2
+WARNING  ms3.Parse.debussy_etudes.l136-02_etudes_tierces
+	Event already contained a 'Fingering_text': 3
+WARNING  ms3.Parse.debussy_etudes.l136-02_etudes_tierces
+	Event already contained a 'Fingering_text': 5
+WARNING  ms3.Parse.debussy_etudes.l136-02_etudes_tierces
+	Event already contained a 'Fingering_text': 2
+WARNING  ms3.Parse.debussy_etudes.l136-02_etudes_tierces
+	Event already contained a 'Fingering_text': 3
+WARNING  ms3.Parse.debussy_etudes.l136-02_etudes_tierces
+	Event already contained a 'Fingering_text': 3
+WARNING  ms3.Parse.debussy_etudes.l136-02_etudes_tierces
+	Event already contained a 'Fingering_text': 2
+WARNING  ms3.Parse.debussy_etudes.l136-02_etudes_tierces
+	Event already contained a 'Fingering_text': 3
+WARNING  ms3.Parse.debussy_etudes.l136-02_etudes_tierces
+	Event already contained a 'Fingering_text': 1
+WARNING  ms3.Parse.debussy_etudes.l136-02_etudes_tierces
+	Event already contained a 'Fingering_text': 3
+WARNING  ms3.Parse.debussy_etudes.l136-02_etudes_tierces
+	Event already contained a 'Fingering_text': 4
+WARNING  ms3.Parse.debussy_etudes.l136-02_etudes_tierces
+	Event already contained a 'Fingering_text': 3
+WARNING  ms3.Parse.debussy_etudes.l136-02_etudes_tierces
+	Event already contained a 'Fingering_text': 3
+WARNING  ms3.Parse.debussy_etudes.l136-02_etudes_tierces
+	Event already contained a 'Fingering_text': 3
+WARNING  ms3.Parse.debussy_etudes.l136-02_etudes_tierces
+	Event already contained a 'Fingering_text': 2
+WARNING  ms3.Parse.debussy_etudes.l136-02_etudes_tierces
+	Event already contained a 'Fingering_text': 2
+WARNING  ms3.Parse.debussy_etudes.l136-02_etudes_tierces
+	Event already contained a 'Fingering_text': 1
+WARNING  ms3.Parse.debussy_etudes.l136-02_etudes_tierces
+	Event already contained a 'Fingering_text': 1
