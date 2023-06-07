@@ -1,5 +1,5 @@
 ![Version](https://img.shields.io/github/v/release/DCMLab/debussy_etudes?display_name=tag)
-![DOI](https://zenodo.org/badge/{{ zenodo_badge_id }}.svg)](https://zenodo.org/badge/latestdoi/{{ zenodo_badge_id }})
+[![DOI](https://zenodo.org/badge/563764725.svg)](https://zenodo.org/badge/latestdoi/563764725)
 ![GitHub repo size](https://img.shields.io/github/repo-size/DCMLab/debussy_etudes)
 ![License](https://img.shields.io/badge/license-CC%20BY--NC--SA%204.0-9cf)
 
@@ -12,26 +12,30 @@ and serves as welcome page for both
 
 # Claude Debussy – Douze Études
 
+This dataset is part of the [The Claude Debussy Solo Piano Corpus](https://github.com/DCMLab/debussy_piano) which has been released together with the publication
+
+> Laneve, S., Schaerf, L., Cecchetti, G., Hentschel, J., & Rohrmeier, M. (in press). The diachronic development of Debussy’s musical style: A corpus study with Discrete Fourier Transform. Humanities and Social Sciences Communications.
 
 
 ## License
 
 Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License ([CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)).
 
-## Naming convention
-
-The file names listed in the [Overview](#overview) below refer to the following numbering of the sonatas from 1-32.
-For example, the four movements of sonata no. 1 are named `01-1`, `01-2`, `01-3`, and `01-4`.
-
-| Number                              | Opus (Name)                       |
-|-------------------------------------|-----------------------------------|
-| Piano Sonata No.1 in F minor        | Op.2 No.1                         |
-
 ## Overview
-|file_name|measures|labels|standard| annotators      | reviewers |
-|---------|-------:|-----:|--------|-----------------|-----------|
-|01-1     |     152|   241|2.3.0   | Annotator names | AN        |
+|       file_name        |measures|labels|
+|------------------------|-------:|-----:|
+|l136-01_etudes_cinq     |     116|     0|
+|l136-02_etudes_tierces  |      76|     0|
+|l136-03_etudes_quartes  |      85|     0|
+|l136-04_etudes_sixtes   |      59|     0|
+|l136-05_etudes_octaves  |     121|     0|
+|l136-06_etudes_huit     |      68|     0|
+|l136-07_etudes_degres   |      88|     0|
+|l136-08_etudes_agrements|      52|     0|
+|l136-09_etudes_notes    |      84|     0|
+|l136-10_etudes_sonorites|      75|     0|
+|l136-11_etudes_arpeges  |      67|     0|
+|l136-12_etudes_accords  |     181|     0|
 
 
-
-*Overview table updated using [ms3](https://johentsch.github.io/ms3/) 1.1.1.*
+*Overview table automatically updated using [ms3](https://johentsch.github.io/ms3/).*
