@@ -1,7 +1,0 @@
-Warnings encountered during the last execution of ms3 review (v1.2.9)
-=====================================================================
-
-WARNING  ms3.Parse.debussy_etudes.l136-06_etudes_huit
-	Event already contained a 'Fingering_text': 3
-WARNING  ms3.Parse.debussy_etudes.l136-06_etudes_huit
-	Event already contained a 'Fingering_text': 2
